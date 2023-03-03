@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: My Website
+title: My Life Story
 
 # Your name to show in the footer
 author: Seunghoi Kim
@@ -49,12 +49,11 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
+  email: edshkim98@gmail.com
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
   facebook: deanattali
-  github: daattali
+  github: https://github.com/edshkim98?tab=repositories
   twitter: daattali
-  patreon: DeanAttali
   youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
