@@ -22,9 +22,9 @@ author: Seunghoi Kim
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+    - Department: "https://www.ucl.ac.uk/intelligent-imaging-healthcare/"
+    - Funding: "https://gtr.ukri.org/projects?ref=EP%2FS021930%2F1"
+  Contact Me: "https://deanattali.com"
 
 ################
 # --- Logo --- #
