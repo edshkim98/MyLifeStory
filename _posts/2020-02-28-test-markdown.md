@@ -1,15 +1,16 @@
 ---
 layout: post
-title: Sample blog post
-subtitle: Each post also has a subtitle
+title: BMVC 2022 
+subtitle: My undergraduate thesis accepted to BMVC 2022!
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [test]
 comments: true
 ---
 
-This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
+My paper 'AGCN: Adversarial Graph Convolutional Network for 3d Point Cloud Segmentation' had been accepted to British Machine Vision Conference (BMVC) in Novmber 2021.
 
+Link: https://www.bmvc2021-virtualconference.com/assets/papers/1545.pdf
 **Here is some bold text**
 
 ## Here is a secondary heading
