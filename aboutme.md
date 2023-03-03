@@ -1,13 +1,11 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Seunghoi Kim from South Korea. 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+I have graduated MEng Computer Science in June 2021 with First Class Honours and now studying my PhD in the centre for medical imging computing at University College London under the supervision of Prof. Daniel Alexander.  
 
 What else do you need?
 
