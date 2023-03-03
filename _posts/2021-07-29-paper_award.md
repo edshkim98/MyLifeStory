@@ -4,7 +4,7 @@ title: UCL & IBM Outstanding Paper Award
 subtitle: Outstanding Paper Prize by UCL & IBM!
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
-tags: [paper]
+tags: [paper, award]
 comments: true
 ---
 
